@@ -19,7 +19,7 @@ Os dados possuem as seguintes colunas:
 - qtd_transacoes_12m: quantidade de transações dos últimos 12 meses
 - Os dados utilizados neste projeto estão disponíveis em este repositório: https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset.
 
-##Metodologia de Trabalho
+## Metodologia de Trabalho
 1. Exploração de Dados: Primeiramente, foi realizada uma exploração inicial dos dados para entender suas características e distribuições.
 2. Análise de Dados: Com os dados explorados, foram realizadas análises detalhadas para identificar padrões e insights relevantes.
 3. Conclusão: A partir das análises, conclusões foram tiradas sobre o comportamento e características dos clientes.
