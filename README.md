@@ -1,6 +1,6 @@
 # Exploração e Análise de Dados de Crédito com SQL
 
-##Descrição
+## Descrição
 Projeto de exploração e análise de dados de crédito utilizando SQL. Os dados representam informações de clientes de um banco, com várias características relevantes para análise. A análise é realizada utilizando AWS Athena e dados armazenados em um S3 Bucket.
 
 ## Estrutura dos Dados
